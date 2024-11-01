@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+label {
+  font-size: 18px;
+  margin-right: 10px;
+}
+select {
+  font-size: 16px;
+}
+
+
